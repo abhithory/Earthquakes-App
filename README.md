@@ -2,6 +2,11 @@
 # Earthquakes App
 An Android app from you can see latest earthquakes in world.
 
+## App Download link:
+ **Playstore:** Will be soon
+ 
+ **Google Drive:** https://drive.google.com/file/d/1kA5fxgxsfvk_TUzH0O7amrklPo6GSoaw/view?usp=sharing
+
 ## Screenshots
 
 ### 1
